@@ -24,5 +24,19 @@ This project focuses on detecting and classifying **plant diseases** from leaf i
 - **Interface (optional):** Streamlit or Flask  
 
 ---
+# 🌿 Plant Disease Detection Project
+
+This repository contains the **Plant Disease Detection** project built using **Deep Learning (CNN)** in Python.  
+It detects various plant leaf diseases using image classification techniques.
+
+---
+
+## 📦 Dataset
+
+The dataset used in this project is named **`Plant-Disease-Detection.zip`**.
+
+### 📁 Dataset Structure
+After extracting the ZIP file, the structure will look like this:
+
 
 
